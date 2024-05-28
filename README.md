@@ -18,3 +18,6 @@
 - Install dependencies:
   ```bash
   pip install pygame
+
+
+--coded by Shaik Hassan Ahmed

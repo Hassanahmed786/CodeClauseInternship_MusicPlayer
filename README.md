@@ -17,4 +17,4 @@
 - Ensure Python is installed.
 - Install dependencies:
   ```bash
-  pip install pygame tk mutagen
+  pip install pygame
